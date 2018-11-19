@@ -1,0 +1,23 @@
+{
+	"load_on_startup": true,
+	"files": {
+		"config.json": {
+			"overwrite": false,
+			"hash": "d1f5cc6649335116000f369451734cedd9c66b6c0ad5a30af7671cd961b38da0"
+		},
+		"index.js": "19092fcbdff18979930278ca451a9f377bfde133964763d85ebc252d19df5950",
+		"module.json": "165530823e2f06f0346193dcf0a0b10553793caace951ed3236ef07a23f5fa01",
+		"node_modules/pify/index.js": "e77abeca1a83a97d2f03a88ded75d2e52ebd1d7a4ec9f2ac9ea816417d5effc8",
+		"node_modules/pify/license": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+		"node_modules/process-list/LICENSE": "01d044f87801e366283c499bd75bf58bdd6abfbc48693244b396e1f153e4d089",
+		"node_modules/process-list/index.js": "cbb380b63c7b389eaad73b4721b8ff37ad5f7e0007cd8948b823fc9c0effd8ef",
+		"node_modules/process-list/processlist-wrapper.js": "a3cbc515edb74e455d6185d6df3221e33c843a4258a9b477f4e1f1f253b524f1",
+		"node_modules/process-list/processlist_ia32_57.node": "076880f41a64454dfc93831a6708591894ceb807e20c3dc21b214aaee7862d2c",
+		"node_modules/process-list/processlist_ia32_64.node": "cb698500d7388bf6f6f288e9b03d0e3b8019ee68db43ed96e1d4643f51dcf313",
+		"node_modules/process-list/processlist_x64_57.node": "033a4e37be8c25af15cd12e10b2d164a8816cffe51ac4d063c0635dde5a10408",
+		"node_modules/process-list/processlist_x64_64.node": "75fe2ebf32da413d3d11b2053966cd883397d319304eaeb14cc27e57324c85e1",
+		"process-listener.js": "78d8099889f8bbaed6fe11b1bf575612465254c4be897fa3e2ef951594e2ba75",
+		"res/x3.xem": "cb15a1a28aad09662245f00edf897c8193486d8f304a6d5bad28f1c43b10d0a4",
+		"res/xcorona.xem": "0377df024e06caaa5086a2c004f33a296e7459667a547640a08c76843f753985"
+	}
+}
