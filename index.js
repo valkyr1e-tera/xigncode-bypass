@@ -28,14 +28,6 @@ function HandleRemovedProcess(pid)
 {
     try
     {
-        let XigncodeFolder = PatchedProcesses[pid];
-        
-        if(BACKUP) {
-            fs.renameSync(path.join(XigncodeFolder, "x3.xem.bak"), path.join(XigncodeFolder, "x3.xem"));
-            fs.renameSync(path.join(XigncodeFolder, "xcorona.xem.bak"), path.join(XigncodeFolder, "xcorona.xem"));
-            console.log(`[xigncode-bypass] Game client (PID ${pid}) closed, bypass reverted.`);
-        }
-        
         delete PatchedProcesses[pid];
     }
     catch(e)
