@@ -11,10 +11,10 @@
 		"node_modules/process-list/LICENSE": "01d044f87801e366283c499bd75bf58bdd6abfbc48693244b396e1f153e4d089",
 		"node_modules/process-list/index.js": "cbb380b63c7b389eaad73b4721b8ff37ad5f7e0007cd8948b823fc9c0effd8ef",
 		"node_modules/process-list/processlist-wrapper.js": "a3cbc515edb74e455d6185d6df3221e33c843a4258a9b477f4e1f1f253b524f1",
-		"node_modules/process-list/processlist_ia32_57.node": "076880f41a64454dfc93831a6708591894ceb807e20c3dc21b214aaee7862d2c",
 		"node_modules/process-list/processlist_ia32_64.node": "cb698500d7388bf6f6f288e9b03d0e3b8019ee68db43ed96e1d4643f51dcf313",
-		"node_modules/process-list/processlist_x64_57.node": "033a4e37be8c25af15cd12e10b2d164a8816cffe51ac4d063c0635dde5a10408",
+		"node_modules/process-list/processlist_ia32_67.node": "b82febe45be527821a4d2a0a81f4b4668706284908466f6742b006ac40ee31b0",
 		"node_modules/process-list/processlist_x64_64.node": "75fe2ebf32da413d3d11b2053966cd883397d319304eaeb14cc27e57324c85e1",
+		"node_modules/process-list/processlist_x64_67.node": "a97fe8503d7ed311528dc3cd0ffbe9697061c633b66895b1b94e9a3ea5bed5c6",
 		"process-listener.js": "78d8099889f8bbaed6fe11b1bf575612465254c4be897fa3e2ef951594e2ba75",
 		"res/x3.xem": "cb15a1a28aad09662245f00edf897c8193486d8f304a6d5bad28f1c43b10d0a4",
 		"res/xcorona.xem": "0377df024e06caaa5086a2c004f33a296e7459667a547640a08c76843f753985"
