@@ -1,14 +1,8 @@
 {
 	"files": {
 		"config.json": "d1f5cc6649335116000f369451734cedd9c66b6c0ad5a30af7671cd961b38da0",
-		"index.js": "53e4515edc82c4ec02b49ba5292731ddf5ae2d4e74998ac8fa16393cbaa4d2ac",
+		"index.js": "bc7ca3d775fa097199b25c4c28285579172d493e85ee4f57914645a5ea96949e",
 		"module.json": "4b8d9d29a1b80255f583971df65b3def9dcaf3d9a3543fa56ca805b2b2865e7b",
-		"node_modules/pify/index.js": "e77abeca1a83a97d2f03a88ded75d2e52ebd1d7a4ec9f2ac9ea816417d5effc8",
-		"node_modules/process-list/index.js": "cbb380b63c7b389eaad73b4721b8ff37ad5f7e0007cd8948b823fc9c0effd8ef",
-		"node_modules/process-list/processlist-wrapper.js": "63dd1378eb0a569a9025a1f7b3de01effe4f443709921c721847a9318ef536f5",
-		"node_modules/process-list/processlist_x64_64.node": "75fe2ebf32da413d3d11b2053966cd883397d319304eaeb14cc27e57324c85e1",
-		"node_modules/process-list/processlist_x64_64_electron.node": "cc61fcda73b56d535f48fba1f13dcd2408651922558a4da2a362fc94d9c14e09",
-		"node_modules/process-list/processlist_x64_67.node": "a97fe8503d7ed311528dc3cd0ffbe9697061c633b66895b1b94e9a3ea5bed5c6",
 		"process-listener.js": "52d044cf9ed5bda87c1121ecb6cebc2aaa5264cecde6b367e163a05d1212b1ba",
 		"res/bypass.dll": "f5d8b296e7892537dbc7b36dddf715e8738e41e4e151d4c51872137f9854e1fe",
 		"res/injector.exe": "1b50f0897023ab228dc56a1d60b8b0018238a0803dec8aeec342c95fe74019ea"
